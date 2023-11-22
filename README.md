@@ -1,2 +1,2 @@
-#npx pod-install ios
-  -- -- to reinstall pods
+#nuke your project
+  -- -- add file to root of your application ✈️✈️✈️
